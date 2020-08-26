@@ -1,4 +1,4 @@
-# Facebook-Messenger-bot-django-ngrok-
+# Facebook-Messenger-chat-bot-django-ngrok-
 
 This is the Facebook Messenger chat botProject  built using 
 
